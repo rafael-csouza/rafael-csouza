@@ -2,8 +2,6 @@
   
 <br><br>
 
-<img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  I’m working on neoPDV
-
 <img align="center" src="https://media.giphy.com/media/ULb3E2pDABUMurdUBE/giphy.gif" width="50">  I’m learning coding
 
 <img align="center" src="https://media.giphy.com/media/llyrYHjdYqv690JhQn/giphy.gif" width="50"> rafaelcarvalhosouza@hotmail.com.br
