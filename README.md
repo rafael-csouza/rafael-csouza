@@ -24,4 +24,4 @@
 
 <br><br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rafael-csouza&show_icons=true&theme=gotham" alt="rafael-csouza)" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rafael-csouza&show_icons=true&theme=gotham" alt="rafael-csouza)" /> -->
