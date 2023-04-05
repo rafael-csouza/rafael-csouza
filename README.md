@@ -24,24 +24,24 @@ rafaelcarvalhosouza@hotmail.com.br
 [![ReactJS](https://img.shields.io/badge/-ReactJS-%23282C34?style=flat-square&logo=react)](https://reactjs.org/)
 [![NextJS](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 
-**💾 Databases**
+<br/><br/>**💾 Databases**<br/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**⚙️ Version Control Tools**
+<br/><br/>**⚙️ Version Control Tools**<br/>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-**🔧 Development Tools**
+<br/><br/>**🔧 Development Tools**<br/>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**🌐 Browsers**
+<br/><br/>**🌐 Browsers**<br/>
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-**💲 Cryptocurrency**
+<br/><br/>**💲 Cryptocurrency**<br/>
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)
 
-[![GitHub followers](https://img.shields.io/github/followers/rafael-csouza?label=Follow&style=social)](https://github.com/rafael-csouza/?tab=follow)
+<!-- [![GitHub followers](https://img.shields.io/github/followers/rafael-csouza?label=Follow&style=social)](https://github.com/rafael-csouza/?tab=follow) -->
 
-<img height="20"  src="https://github-readme-stats.vercel.app/api?username=rafael-csouza&show_icons=true&theme=gotham" alt="rafael-csouza)" />
+<!-- <img height="20"  src="https://github-readme-stats.vercel.app/api?username=rafael-csouza&show_icons=true&theme=gotham" alt="rafael-csouza)" /> -->
